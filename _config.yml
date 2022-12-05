@@ -85,9 +85,9 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : #"location"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=mostafa+nasiri"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1LBbMGcAAAAJ"
-  email            :
+  email            : "nasirsoft@gmail.com" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
