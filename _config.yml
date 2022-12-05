@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mostafa Nasiri"
 title_separator          : "-"
 name                     : &name "Mostafa Nasiri"
-description              : &description "personal description"
+description              : &description "Data analyst"
 url                      : https://mostafa-nasiri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mostafa-nasiri/mostafa-nasiri.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mostafa Nasiri"
   avatar           : "Mostafa.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Data analyst"
   location         : #"location"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=mostafa+nasiri"
